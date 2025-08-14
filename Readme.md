@@ -10,7 +10,7 @@ This is currently a basic frame-by-frame video processing script that applies gr
 - ✅ Applies Gaussian blur
 - ✅ Performs edge detection with Canny
 - ✅ Finds contours
-- 🚧 **To-do**: Add object detection logic, filtering noise, tracking targets, and drawing bounding boxes.
+- Added object detection logic, filtering noise, tracking targets, and drawing bounding boxes.
 
 ## 🛠 Requirements
 
@@ -60,7 +60,9 @@ Target-Detection-Using-Python/
 📅 Development Log
 Day 1: Basic video reading, grayscale conversion, blur, edge detection, and contour finding implemented.
 
-Day 2+: To be updated daily...
+Day 2: Early phase project Completed
+
+Day 3: Test the project with some real videos
 
 ⚠ This project is still in early development — results will improve over time as detection logic is added.
 EOF
